@@ -1,5 +1,5 @@
 # Puzzle_Game
-The player wakes up in a random village. The goal is to go home. The player can collect items and interact with NPCs in the village. At the end of the village there is a boss battle. And then the player goes home and goes to sleep. The game restarts in the same village.
+A game made in GameMaker where the player wakes up in a random village. The goal is to go home. The player can collect items and interact with NPCs in the village. At the end of the village there is a boss battle. And then the player goes home and goes to sleep. The game restarts in the same village.
 # Skills
 * GML
 * Player movement
